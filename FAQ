@@ -1,0 +1,26 @@
+Q:Intelligent Pudding是什么？
+K：一个公益性质的以便利为主要目的的多功能高智能地图软件。
+
+Q:我可以在应用商店中发布使用了Intelligent Pudding的应用吗？
+K:可以。您可以在任意应用商店中发布使用了Intelligent Pudding的应用。并且您需要在您的应用或衍生产品中加入Intelligent Pudding包中的LICENSE。
+
+Q:Intelligent Pudding使用了开源软件吗？这对我的应用有什么影响？
+K:Intelligent Pudding内部使用了一些开源软件。这些软件是BSD/MIT/Apache/Boost 授权的。您可以在SDK包中的LICENSE文件里查看详细的信息。根据LICENSE内容，这些软件是被允许商用的。您需要在您的应用或衍生产品中加入这些LICENSE。
+
+Q:Intelligent Pudding有水印吗？
+K:没有。Intelligent Pudding不会显示水印。
+
+Q:Intelligent Pudding 支持3D吗？
+K:支持。Intelligent Pudding从第二个发布版本开始支持3D。
+
+Q:为什么我运行之后只显示白屏？
+K:请使用Intelligent Pudding 1.0或以上版本。
+
+Q:Intelligent Pudding 目前有哪些语言版本？
+K：目前Intelligent Pudding 报表软件支持简体中文版、英文版和繁体中文版（CN：简体中文版  CHT：繁体中文版  EN：英文版）。
+
+Q:注册与否的区别?
+K:注册即可以参与公益活动，从Intelligent Pudding 官网下载的Intelligent Pudding 软件是未注册版本，为便于用户进行功能测试，没有注册的版本包含所有功能，但是会存在以下的问题：
+1.未注册版本只能使用一部分功能，不能良好的享用Intelligent Pudding.
+2.未注册版本会使Web应用服务器每七天暂停工作，造成不能访问，此时需要重启Web应用服务器；
+3.访问web分析的时候，偶尔会弹出注册提示。
